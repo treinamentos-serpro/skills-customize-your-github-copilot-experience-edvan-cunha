@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-pytest",
+      "title": "Automated Testing with pytest",
+      "description": "Write beginner-friendly automated tests for Python functions, including expected results, edge cases, and expected errors.",
+      "path": "assignments/automated-testing-pytest",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
